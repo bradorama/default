@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e93ff20a-32bf-4834-a672-13924620f00b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="830b70fc-c05a-4610-a1ac-3b9e16aced9c" value="Blue" />
+      <entry key="876a3d07-1ae2-4649-a55a-b905a264fe5c" value="Green" />
+    </colors>
+  </component>
+  <component name="ProjectId" id="1QEufKIKudwx8j1X3kvtrQ6YkI0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="snowflake&#10;postgresql&#10;redshift" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="true" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="database.data.extractors.current.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="D:/data/wm" />
+    <property name="settings.editor.selected.configurable" value="database.main2" />
+    <property name="sql.rename.search.for.storage.occurrences" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\wm" />
+      <recent name="D:\GitHub\tax_PROD\tax" />
+      <recent name="D:\GitHub\EC_PROD\Data\tax" />
+      <recent name="D:\data\990" />
+      <recent name="D:\GitHub\tax_PROD" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.labs.sql">
+    <configuration name="excelgenerate.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="D:/GitHub/EC_PROD/Data/food/excelgenerate.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="labs.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="D:/GitHub/wm/labs.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="plentifulETL.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="D:/GitHub/EC_PROD/Data/food/plentifulETL.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.labs.sql" />
+        <item itemvalue="Database Script.excelgenerate.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="672" y="0" width="1216" height="1080" key="#Intentions" timestamp="1589925247245">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="672" y="0" width="1216" height="1080" key="#Intentions/0.0.2560.1080@0.0.2560.1080" timestamp="1589925247245" />
+    <state x="672" y="29" key="#Notifications" timestamp="1591206796850">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="672" y="29" key="#Notifications/0.0.2560.1080@0.0.2560.1080" timestamp="1591206796850" />
+    <state x="1043" y="235" width="841" height="821" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597458787246">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="582" y="176" width="841" height="821" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594337843396" />
+    <state x="776" y="176" width="1107" height="821" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1593090502647" />
+    <state x="1043" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1597458787246" />
+    <state x="1290" y="333" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595956682670">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="720" y="250" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593210119037" />
+    <state x="960" y="250" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1591032416938" />
+    <state x="1290" y="333" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1595956682670" />
+    <state x="867" y="20" key="#excelgenerate.sql" timestamp="1591044486175">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="867" y="20" key="#excelgenerate.sql/0.0.2560.1080@0.0.2560.1080" timestamp="1591044486175" />
+    <state x="484" y="174" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1594233994512">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="484" y="174" key="DUMP_DIALOG_DIMENSION_KEY/0.0.1920.1080@0.0.1920.1080" timestamp="1594233994512" />
+    <state x="1012" y="268" key="FileChooserDialogImpl" timestamp="1597503826993">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="565" y="201" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1594233916098" />
+    <state x="753" y="201" key="FileChooserDialogImpl/0.0.2560.1080@0.0.2560.1080" timestamp="1592845046238" />
+    <state x="1012" y="268" key="FileChooserDialogImpl/0.0.3440.1440@0.0.3440.1440" timestamp="1597503826993" />
+    <state width="1772" height="367" key="GridCell.Tab.0.bottom" timestamp="1597527846667">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="961" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594233994556" />
+    <state width="1307" height="250" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1593040298750" />
+    <state width="1772" height="367" key="GridCell.Tab.0.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1597527846667" />
+    <state width="1772" height="367" key="GridCell.Tab.0.center" timestamp="1597527846667">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="961" height="250" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594233994556" />
+    <state width="1307" height="250" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1593040298750" />
+    <state width="1772" height="367" key="GridCell.Tab.0.center/0.0.3440.1440@0.0.3440.1440" timestamp="1597527846667" />
+    <state width="1772" height="367" key="GridCell.Tab.0.left" timestamp="1597527846667">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="961" height="250" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594233994556" />
+    <state width="1307" height="250" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1593040298750" />
+    <state width="1772" height="367" key="GridCell.Tab.0.left/0.0.3440.1440@0.0.3440.1440" timestamp="1597527846667" />
+    <state width="1772" height="367" key="GridCell.Tab.0.right" timestamp="1597527846667">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="961" height="250" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594233994556" />
+    <state width="1307" height="250" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1593040298750" />
+    <state width="1772" height="367" key="GridCell.Tab.0.right/0.0.3440.1440@0.0.3440.1440" timestamp="1597527846667" />
+    <state width="418" height="1002" key="HiddenNamespacesPopup" timestamp="1597491842206">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="311" height="751" key="HiddenNamespacesPopup/0.0.2560.1080@0.0.2560.1080" timestamp="1589239397535" />
+    <state width="418" height="1002" key="HiddenNamespacesPopup/0.0.3440.1440@0.0.3440.1440" timestamp="1597491842206" />
+    <state x="666" y="17" key="SettingsEditor" timestamp="1590946313020">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="666" y="17" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1590946313020" />
+    <state x="1521" y="464" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1597448757695">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1132" y="348" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.2560.1080@0.0.2560.1080" timestamp="1591889991804" />
+    <state x="1521" y="464" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.3440.1440@0.0.3440.1440" timestamp="1597448757695" />
+    <state x="1484" y="495" width="468" height="350" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1597492942459">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1104" y="371" width="468" height="350" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.2560.1080@0.0.2560.1080" timestamp="1592842462457" />
+    <state x="1484" y="495" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.3440.1440@0.0.3440.1440" timestamp="1597492942459" />
+    <state x="680" y="0" key="com.intellij.database.dbimport.ImportDialog" timestamp="1597448957819">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="506" y="0" key="com.intellij.database.dbimport.ImportDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1592839296876" />
+    <state x="680" y="0" key="com.intellij.database.dbimport.ImportDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1597448957819" />
+    <state x="879" y="249" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1590762739814">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="879" y="249" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1590762739814" />
+    <state x="1328" y="551" width="677" height="468" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1592841567932">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1328" y="551" width="677" height="468" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1592841567932" />
+    <state x="1132" y="455" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1589551496173">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1132" y="455" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.2560.1080@0.0.2560.1080" timestamp="1589551496173" />
+    <state x="1234" y="19" width="680" height="680" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1597497042580">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="918" y="14" width="680" height="680" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1593037530891" />
+    <state x="1234" y="19" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1597497042580" />
+    <state x="865" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588963735671">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="865" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1588963735671" />
+    <state x="773" y="0" width="1009" height="1076" key="search.everywhere.popup" timestamp="1593037842941">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="773" y="0" width="1009" height="1076" key="search.everywhere.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1593037842941" />
+  </component>
+</project>

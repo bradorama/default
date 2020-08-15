@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://D:/GitHub/EC_PROD/Data/ETL/OrganizationInboundSalesforce.sql" dialect="PostgreSQL" />
+    <file url="file://D:/GitHub/EC_PROD/Data/food/Cleanschedules.sql" dialect="PostgreSQL" />
+    <file url="file://D:/GitHub/EC_PROD/Data/food/excelgenerate.sql" dialect="PostgreSQL" />
+    <file url="file://D:/GitHub/EC_PROD/Data/food/foodfinderETL.sql" dialect="PostgreSQL" />
+    <file url="file://D:/GitHub/EC_PROD/Data/food/pantrydc.sql" dialect="PostgreSQL" />
+    <file url="file://D:/GitHub/EC_PROD/Data/food/plentifulETL.sql" dialect="PostgreSQL" />
+    <file url="file://D:/GitHub/EC_PROD/Data/food/unemployedETL.sql" dialect="PostgreSQL" />
+    <file url="file://D:/GitHub/EC_PROD/Data/tax/console_47.sql" dialect="PostgreSQL" />
+    <file url="file://D:/GitHub/EC_PROD/Data/tax/ein_matching.sql" dialect="Redshift" />
+    <file url="file://D:/GitHub/EC_PROD/census_fips.sql" dialect="PostgreSQL" />
+    <file url="file://D:/GitHub/HC_PROD/healthcare/AACREnrichment.sql" dialect="PostgreSQL" />
+    <file url="file://D:/GitHub/tax_PROD/tax/acctoppty.sql" dialect="PostgreSQL" />
+    <file url="file://D:/GitHub/tax_PROD/tax/ntee_query.sql" dialect="PostgreSQL" />
+    <file url="file://D:/data/food/foodfinderETL.sql" dialect="PostgreSQL" />
+  </component>
+</project>
